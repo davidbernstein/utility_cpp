@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+*.iml
+
+*.cbp
+
+dontcommit/isaac64.cpp
